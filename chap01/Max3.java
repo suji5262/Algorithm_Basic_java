@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Max3 {
+public class Max3 { // 최댓값을 구하는 프로그램
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
