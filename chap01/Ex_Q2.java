@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex_Q2 {
+public class Ex_Q2 { // 세 값의 최소값을 구하라
     static int min3(int a, int b, int c){
         int min = a; // 최소값
         if (b < min)
